@@ -91,7 +91,7 @@ This makes it a product system, not just a contract package.
 
 ## Documentation map
 
-- [Platform Overview](./platform-overview.md)
+- [Overview](./platform-overview.md)
 - [Why SPLY](./why-sply.md)
 - [How Launching Works](./how-launching-works.md)
 - [Architecture and Components](./architecture-and-components.md)

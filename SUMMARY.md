@@ -1,7 +1,7 @@
 # Summary
 
 * [Welcome to SPLY](en/README.md)
-  * [Platform Overview](en/platform-overview.md)
+  * [Overview](en/platform-overview.md)
   * [Why SPLY](en/why-sply.md)
   * [How Launching Works](en/how-launching-works.md)
   * [Project Owner Guide](en/project-owner-guide.md)
